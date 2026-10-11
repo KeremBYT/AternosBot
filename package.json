@@ -1,9 +1,10 @@
 {
   "name": "aternos-bot",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "Aternos 7/24 Bot Projesi",
+  "main": "server.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "mineflayer": "^4.20.0",
